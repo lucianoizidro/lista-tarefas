@@ -1,2 +1,2 @@
 # lista-tarefas
-Lista de tarefas desenvolvida em HTML + CSS + JAVASCRIPT
+Projeto Lista de Tarefas desenvolvida em HTML + CSS + JAVASCRIPT
